@@ -9,6 +9,6 @@ Conclusion - 1.Customers of age between 30 to 60 are more likely to buy insuranc
 
 4.The variable such as Age, Previously_insured,Annual_premium are more afecting the target variable.
 
-5.comparing ROC curve we can see that Random Forest model preform better. Because curves closer to the top-left corner, it indicate a better performance.
+5.Comparing ROC curve we can see that Random Forest model preform better. Because curves closer to the top-left corner, it indicate a better performance.
 
 6.Accuracy of random forest model is 0.88. It is more than other classification models.
